@@ -1,4 +1,4 @@
-# Disney Plus Clone Readme
+# Disney Plus Clone Readme Document
 
 ## <a href="https://disney-clone-d1e27.firebaseapp.com" target="_blank">LIVE DEMO</a>
 
